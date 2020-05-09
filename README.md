@@ -1,3 +1,7 @@
+Live site [here](https://my-corona-tracker.netlify.app/)
+
+This was made following the instructions from [here](https://www.youtube.com/watch?v=khJlrj3Y6Ls) 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
